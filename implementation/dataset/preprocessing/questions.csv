@@ -1,0 +1,16 @@
+Is n (number of features) >> p (number of class labels), Are there outliers?, Are features on vastly different scales?, Is the data collected from multiple sources or devices and grouped together?
+1,1,1,1
+1,1,1,0
+1,1,0,1
+1,0,1,1
+0,1,1,1
+1,1,0,0
+1,0,1,0
+0,1,1,0
+1,0,0,1
+0,1,0,1
+0,0,1,1
+1,0,0,0
+0,1,0,0
+0,0,1,0
+0,0,0,1

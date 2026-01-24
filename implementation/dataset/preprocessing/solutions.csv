@@ -1,0 +1,16 @@
+PCA,Correlation_Based_Feature_Selection,Standard_Scaling,Per_Batch_Standard_Scaling
+0,1,1,1
+0,1,1,0
+0,1,0,1
+1,0,1,1
+0,0,1,1
+0,1,0,0
+1,0,1,0
+0,0,1,0
+1,0,0,1
+0,0,0,1
+0,0,1,1
+1,1,0,0
+0,1,0,0
+0,0,1,0
+0,0,0,1
