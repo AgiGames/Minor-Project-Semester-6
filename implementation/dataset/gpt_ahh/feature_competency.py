@@ -7,7 +7,6 @@ def problem_feature_competency(qs: pd.DataFrame, sols: pd.DataFrame):
     
     imp_1s = (Q.T @ S).astype(np.float32) # q == 1 and s == 1
     imp_2s = ((1 - Q).T @ S).astype(np.float32) # q == 0 and s == 1
-    print(imp_1s.shape)
     
     q_1_freq = Q.sum(axis=0).astype(np.float32)
     q_2_freq = (1 - Q).sum(axis=0).astype(np.float32)
